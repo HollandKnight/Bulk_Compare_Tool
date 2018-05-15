@@ -1,0 +1,241 @@
+CREDIT AND GUARANTY AGREEMENT
+
+
+
+This CREDIT AND GUARANTY AGREEMENT, dated as of August 10, 2017, is entered into by and among VXCHNGE INVESTMENT, LLC, a Delaware limited liability company (the “Borrower”), VXCHNGE HOLDINGS, LLC, a Delaware limited liability company (“Holdings”), HOLDINGS AND CERTAIN SUBSIDIARIES OF HOLDINGS, as Guarantors, the Lenders party hereto from time to time, and WELLS FARGO BANK, NATIONAL ASSOCIATION (“Wells”), as Administrative Agent (together with its permitted successors in such capacity, the “Administrative Agent”) and as the Collateral Agent (together with its permitted successor in such capacity, the “Collateral Agent”).
+
+“Adverse Proceeding” means any action, suit, proceeding, hearing (in each case, whether administrative, judicial or otherwise), governmental investigation or arbitration (whether or not purportedly on behalf of Holdings or any of its Subsidiaries) at law or in equity, or before or by any Governmental Authority, domestic or foreign (including any Environmental Claims), whether pending, affecting or, to the extent Holdings or any of its Subsidiaries has received written notice thereof, threatened against Holdings or any of its Subsidiaries or any property of Holdings or any of its Subsidiaries.
+
+“Affected Lender” as defined in Section 2.15(b).
+
+“Affected Loans” as defined in Section 2.15(b).
+
+“Affiliate” means, as applied to any Person, any other Person directly or indirectly controlling, controlled by, or under common control with, that Person.  For the purposes of this definition, “control” (including, with correlative meanings, the terms “controlling”, “controlled by” and “under common control with”), as applied to any Person, means the possession, directly or indirectly, of the power (i) for purposes of Section 6.11, to vote 10.0% or more of the Securities having ordinary voting power for the election of directors of such Person or (ii) to direct or cause the direction of the management and policies of that Person, whether through the ownership of voting securities or by contract or otherwise.
+
+“Agent” means each of (i) the Administrative Agent and (ii) the Collateral Agent.
+
+“Agent Affiliates” as defined in Section 10.1(b)(iii).
+
+“Aggregate Amounts Due” as defined in Section 2.14.
+
+“Aggregate Payments” as defined in Section 7.2.
+
+“Agreement” means this Credit and Guaranty Agreement, dated as of August 10, 2017, as it may be amended, restated, supplemented or otherwise modified from time to time.
+
+“Allocated Loan Amount” as defined in Section 5.11.
+
+“Anti-Corruption Laws” means any Laws concerning or relating to bribery or corruption, including the FCPA, the U.K. Bribery Act of 2010, and all national and international Laws enacted to implement the OECD Convention on Combating Bribery of Foreign Officials in International Business Transactions.
+
+“Anti-Money Laundering Laws” means any Laws concerning or relating to terrorism financing or money laundering, including the Bank Secrecy Act, as amended by the PATRIOT ACT.
+
+“Applicable Commitment Fee Percentage” means 1.00% per annum.
+
+“Applicable Make-Whole Amount” means, with respect to any repayment or prepayment of the Loans, an amount equal to the amount of interest that would have been paid on the principal amount of the Loans being so repaid or prepaid for the period from and including the date of such repayment or prepayment to but excluding the date that is the two (2) year anniversary of the Closing Date (in each case, calculated on the basis of the interest rate with respect to the Loans that is in effect on the date of such repayment, prepayment or repricing and on the basis of actual days elapsed over a year of three hundred sixty-five (365) days).
+
+“Applicable Margin” means (a) with respect to any Loans comprising Eurodollar Rate Loans, 5.75% per annum, and (b) with respect to any Loans comprising Base Rate Loans, 4.75% per annum.
+
+“Applicable Reserve Requirement” means, at any time, for any Eurodollar Rate Loan, the maximum rate, expressed as a decimal, at which reserves (including any basic marginal, special, supplemental, emergency or other reserves) are required to be maintained with respect thereto against “Eurocurrency liabilities” (as such term is defined in Regulation D) under regulations issued from time to time by the Board of Governors or other applicable banking regulator.  Without limiting the effect of the foregoing, the Applicable Reserve Requirement shall reflect any other reserves required to be maintained by such member banks with respect to (i) any category of liabilities which includes deposits by reference to which the applicable Adjusted Eurodollar Rate or any other interest rate of a Loan is to be determined, or (ii) any category of extensions of credit or other assets which include Eurodollar Rate Loans.  A Eurodollar Rate Loan shall be deemed to constitute Eurocurrency liabilities and as such shall be deemed subject to reserve requirements without benefits of credit for proration, exceptions or offsets that may be available from time to time to the applicable Lender.  The rate of interest on Eurodollar Rate Loans shall be adjusted automatically on and as of the effective date of any change in the Applicable Reserve Requirement.
+
+“Approved Electronic Communications” means any notice, demand, communication, information, document or other material that any Credit Party provides to the Agents pursuant to any Credit Document or the transactions contemplated therein which is distributed to the Administrative Agent or the Lenders by means of electronic communications pursuant to Section 10.1(b).
+
+“Approved Form” means (a) substantially the form of master services agreement set forth in Exhibit M, together with such changes and modifications or additions as the Requisite Lenders may reasonably approve, or (b) such other form of customer (or “end user”) agreement that is in form and substance reasonably acceptable to the Requisite Lenders (and which form shall permit the collateral assignment of the rights of the Credit Party party thereto thereunder to the Collateral Agent); provided that no such approval by the Requisite Lenders shall be required with respect to (i) provisions with respect to service fees, so long as such fees are assignable to the Collateral Agent as security for the Obligations, and (ii) any customer (or “end user”) agreement with respect to which the monthly recurring revenue is less than $10,000 a month. 
+
+“Asset Sale” means a sale, lease or sublease (as lessor or sublessor), sale and leaseback, assignment, conveyance, exclusive license (as licensor or sublicensor), transfer or other disposition to, or any exchange of property with, any Person (other than Holdings, the Borrower or any Guarantor Subsidiary), in one transaction or a series of transactions, of all or any part of Holdings’ or any of its Subsidiaries’ businesses, assets or properties of any kind, whether real, personal, or mixed and whether tangible or intangible, whether now owned or hereafter acquired, leased or licensed, including the Equity Interests of any of Holdings’ Subsidiaries, other than inventory sold, leased or licensed out in the ordinary course of business (excluding any such sales, leases or licenses out by operations or divisions discontinued or to be discontinued).
+
+“Assignment Agreement” means an assignment and assumption agreement substantially in the form of Exhibit D, with such amendments or modifications as may be approved by the Administrative Agent.
+
+“Assignment Effective Date” as defined in Section 10.6(b).
+
+“Austin Mortgage Borrower” means vXchnge-Facilities, LLC.
+
+“Austin Mortgage Collateral” as defined in the Intercreditor Agreement.
+
+“Austin Permitted Indebtedness” as defined in Section 6.1(j).
+
+“Austin Permitted Indebtedness Documents” as defined in Section 3.1(q).
+
+“Austin Permitted Indebtedness Parent Guaranty” as defined in Section 6.1(j).
+
+“Austin Property” means the real property located at 8025 N. Interstate Highway 35, Austin, TX 78753.
+
+“Authorized Officer” means, as applied to any Person, any individual holding the position of chairman of the board (if an officer), chief executive officer, president, senior vice president, vice president (or the equivalent thereof), chief financial officer or treasurer of such Person or, with respect to any Person that is not a corporation and that does not have officers, any individual holding any such position of the general partner, the sole member, managing member or similar governing body of such Person; provided that the senior vice president of such Person shall have delivered an incumbency certificate to the Administrative Agent as to the authority of such Authorized Officer.
+
+“Bankruptcy Code” means Title 11 of the United States Code entitled “Bankruptcy,” as now and hereafter in effect, or any successor statute.
+
+“Base Rate” means, for any day, a rate per annum equal to the greatest of (i) the Prime Rate in effect on such day, (ii) the Federal Funds Effective Rate in effect on such day plus ½ of 1% and (iii) the sum of (a) the Adjusted Eurodollar Rate (after giving effect to any Adjusted Eurodollar Rate “floor”) that would be payable on such day for a Eurodollar Rate Loan with a one (1) month interest period plus (b) 1.00% per annum; provided, however, that notwithstanding the foregoing, the Base Rate shall at no time be less than 1.00% per annum.  Any change in the Base Rate due to a change in the Prime Rate or the Federal Funds Effective Rate shall be effective on the effective day of such change in the Prime Rate or the Federal Funds Effective Rate, respectively.
+
+“Base Rate Loan” means a Loan bearing interest at a rate determined by reference to the Base Rate.
+
+“Beneficiary” means each Agent and each Lender and Lender Counterparty, and “Beneficiaries” means, collectively, the Agent, the Lenders and the Lender Counterparties.
+
+“Board of Governors” means the Board of Governors of the United States Federal Reserve System, or any successor thereto.
+
+“Borrower” as defined in the preamble hereto.
+
+“Borrowing Date” means the date on which a Loan is made.
+
+“Business Day” means (i) any day excluding Saturday, Sunday and any day which is a legal holiday under the laws of the State of New York or is a day on which banking institutions located in such state or a corporate trust office of Wells are authorized or required by law or other governmental action to close and (ii) with respect to all notices, determinations, fundings and payments in connection with the Adjusted Eurodollar Rate or any Eurodollar Rate Loans, the term “Business Day” means any day which is a Business Day described in clause (i) and which is also a day for trading by and between banks in Dollar deposits in the London interbank market.
+
+“Capital Lease” means, as applied to any Person, any lease of any property (whether real, personal or mixed) by that Person as lessee that, in conformity with GAAP in effect on the date hereof, is or should be accounted for as a capital lease on the balance sheet of that Person.
+
+“Cash” means money, currency or a credit balance in any demand or Deposit Account.
+
+“Cash Equivalents” means, as at any date of determination, any of the following:  (i) marketable securities (a) issued or directly and unconditionally guaranteed as to interest and principal by the United States Government or (b) issued by any agency of the United States the obligations of which are backed by the full faith and credit of the United States, in each case maturing within one (1) year after such date; and (ii) marketable direct obligations issued by any state of the United States or any political subdivision of any such state or any public instrumentality thereof, in each case maturing within one (1) year after such date and having, at the time of the acquisition thereof, a rating of at least A1 from S&P or at least P1 from Moody’s.
+
+“Certificate re NonBank Status” means a certificate substantially in the form of Exhibit E.
+
+“Change of Control” means, at any time, (i) the Sponsor shall cease to have the sole power (whether or not exercised and whether arising by ownership of Equity Interests, by contract or otherwise) to elect a majority of the members of the board of directors (or similar governing body) of Holdings; (ii) the Sponsor shall cease to Control exclusively the daily business, affairs or management of Holdings and the Borrower; (iii) the Sponsor shall fail to beneficially own and control at least 80% of the economic and voting interests in the Equity Interests of Holdings; (iv) Holdings shall cease to directly or indirectly beneficially own and control 100% on a fully diluted basis of the economic and voting interests in the Equity Interests of the Borrower; or (v) the Borrower shall cease to directly or indirectly beneficially own and control 100% on a fully diluted basis of the economic and voting interest in the Equity Interests of its Subsidiaries (other than pursuant to a disposition permitted under Section 6.8).  For purposes of clause (ii) of this definition, “Control”, as applied to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of that Person, whether through the ownership of voting securities or by contract or otherwise.
+
+“Cincinnati Property” means the real property specified in Schedule 1.1(e).
+
+“Class” means (a) with respect to Lenders, each of the following classes of Lenders: (i) Initial Term Loan Lenders and (ii) Delayed Draw Lenders and (b) with respect to Loans, each of the following classes of Loans: (i) Initial Term Loans and (ii) Delayed Draw Loans.
+
+ “Eligible Assignee” means:
+
+(a)	with respect to Loans, any Person (other than a natural Person) that is (i) a Lender, (ii) an Affiliate of any Lender, (iii) a Related Fund, or (iv) any other Person; and 
+
+(b)	with respect to Delayed Draw Commitments, (i) a Lender, (ii) an Affiliate of any Lender, (iii) a Related Fund, (iv) a commercial bank having total assets or net worth in excess of $250,000,000, (v) a finance company, insurance company, or other financial institution or fund that is engaged in the making, purchasing or otherwise investing in commercial loans in the ordinary course of its business and having (together with its Affiliates) total assets or net worth in excess of $250,000,000, or (vi) any other Person (other than a natural Person) approved by Borrower;
+
+provided that (A), in the case of each of clauses (a) and (b), (1) no Credit Party or Affiliate of a Credit Party, the Sponsor or Affiliate of the Sponsor shall be an Eligible Assignee, (2) no Defaulting Lender shall be an Eligible Assignee and (3) so long as no Default or Event of Default has occurred and is continuing, no Person who is a bona fide competitor and is on the “Disqualified Lender List” delivered to the Administrative Agent prior to the date hereof shall be an Eligible Assignee 2(which Disqualified Lender List shall be available for inspection by each Lender), and (B) in the case of clause (b)(vi), (1) the Borrower shall be deemed to have consented to any such assignment unless it shall object thereto by written notice to the Administrative Agent within ten (10) Business Days after having received written notice thereof and (2) no Borrower consent shall be required if a Default or Event of Default shall have occurred and is continuing.
+
+“Employee Benefit Plan” means any “employee benefit plan” as defined in Section 3(3) of ERISA which is or was sponsored, maintained or contributed to by, or required to be contributed by, Holdings, any of its Subsidiaries or any of their respective ERISA Affiliates.
+
+ (g)	Treatment of Certain Refunds. If any party determines, in its sole discretion exercised in good faith, that it has received a refund of any Taxes as to which it has been indemnified pursuant to this Section 2.17 (including by the payment of additional amounts pursuant to this Section 2.17), it shall pay to the indemnifying party an amount equal to such refund (but only to the extent of indemnity payments made under this Section 2.17 with respect to the Taxes giving rise to such refund), net of all out-of-pocket expenses (including Taxes) of such indemnified party and without interest (other than any interest paid by the relevant Governmental Authority with respect to such refund).  Such indemnifying party, upon the request of such indemnified party, shall repay to such indemnified party the amount paid over pursuant to this clause (g) (plus any penalties, interest or other charges imposed by the relevant Governmental Authority) in the event that such indemnified party is required to repay such refund to such Governmental Authority.  Notwithstanding anything to the contrary in this clause (g), in no event will the indemnified party be required to pay any amount to an indemnifying party pursuant to this clause (g) the payment of which would place the indemnified party in a less favorable net after-Tax position than the indemnified party would have been in if the Tax subject to indemnification and giving rise to such refund had not been deducted, withheld or otherwise imposed and the indemnification payments or additional amounts with respect to such Tax had never been paid.  This clause (g) shall not be construed to require any indemnified party to make available its Tax returns (or any other information relating to its Taxes that it deems confidential) to the indemnifying party or any other Person.
+
+(h)	Survival.  Each party’s obligations under this Section 2.17 shall survive the resignation or replacement of the Administrative Agent or any assignment of rights by, or the replacement of, a Lender, the termination of the Commitments and the repayment, satisfaction or discharge of all obligations under any Credit Document.
+
+(i)	Cost Basis Reporting.  The Lenders shall provide or cause to be provided to the Administrative Agent all information reasonably necessary to allow the Administrative Agent to comply with any applicable cost basis reporting obligations.
+
+(q)	Austin Permitted Indebtedness.  The Administrative Agent shall have received true and correct copies of the documentation governing the Austin Permitted Indebtedness (including all loan agreements, the guaranty agreement evidencing the Austin Permitted Indebtedness Parent Guaranty and mortgages and other collateral documents, the “Austin Permitted Indebtedness Documents”), executed by the parties thereto, and such documentation shall be in form and substance satisfactory to the Requisite Lenders.  The Administrative Agent shall have received a copy of the Intercreditor Agreement duly executed by the parties thereto and acknowledged by the Credit Parties. 
+
+(r)	Governmental Authorizations and Consents.  Each Credit Party shall have obtained all Governmental Authorizations and all consents of other Persons, in each case that are necessary or advisable in connection with the transactions contemplated by the Credit Documents and each of the foregoing shall be in full force and effect and in form and substance reasonably satisfactory to the Requisite Lenders.  All applicable waiting periods shall have expired without any action being taken or threatened by any competent authority which would restrain, prevent or otherwise impose adverse conditions on the transactions contemplated by the Credit Documents or the financing thereof and no action, request for stay, petition for review or rehearing, reconsideration, or appeal with respect to any of the foregoing shall be pending, and the time for any applicable agency to take action to set aside its consent on its own motion shall have expired.
+
+(s)	Excluded Site Subsidiary.  The Sponsor Excluded Site Subsidiary Support Agreement shall be in form and substance satisfactory to the Requisite Lenders.  The Administrative Agent shall have received a copy of the Sponsor Excluded Site Subsidiary Support Agreement duly executed by the parties thereto.
+
+3.2	Delayed Draw Loans
+
+.  The obligation of each Delayed Draw Lender to make a Delayed Draw Loan on any Borrowing Date is subject to the satisfaction, or waiver in accordance with Section 10.5, of the following conditions on or before such Borrowing Date:
+
+(a)	the Administrative Agent shall have received from the Borrower (i) a duly executed and delivered Funding Notice as required pursuant to Section 2.1(e); provided that all certifications made under such Funding Notice shall be made (or deemed made) as of such Borrowing Date and (ii) a certificate of an Authorized Officer certifying that all the conditions set forth in this Section 3.2 and Section 3.3 have been satisfied as of the date of such certificate;
+
+(b)	after making the Delayed Draw Loans requested on such Borrowing Date, the Total Utilization of Delayed Draw Commitments shall not exceed the Delayed Draw Commitments then in effect;
+
+(c)	if the borrowing of Delayed Draw Loans is for the purpose of financing a Permitted Property Acquisition,
+
+	
+
+	(i) 	such Permitted Property Acquisition shall comply with the requirements of Section 6.8(e);
+
+
+
+	(ii) 	such Permitted Property Acquisition shall be consummated on such Borrowing Date;
+
+
+
+	(iii)	the Borrower shall have given the Administrative Agent not less than forty five (45) days’ notice of the proposed date of consummation of such Permitted Property Acquisition;
+
+
+
+	(iv)	at least forty-five (45) days prior to any draw of a Delayed Draw Loan, the Administrative Agent shall have received an appraisal of the Permitted Property Acquisition dated no more than ninety (90) days prior to the date of the proposed date of the funding of the Delayed Draw Loan; and
+
+
+
+	(v)	not later than the Business Day prior to funding the Delayed Draw Loan (or such earlier date as may be specified in this Agreement), the Credit Parties shall have satisfied each of the Permitted Property Acquisition Conditions with respect to such Permitted Property Acquisition;
+
+
+
+	(d)	if the borrowing of the Delayed Draw Loans is for the purpose of financing capital expenditures at a Data Center Property, the Borrower shall have delivered to the Administrative Agent, not less than ten (10) Business Days’ prior to the date of the proposed date of the funding of the Delayed Draw Loans, the plans, specifications, budget and the sources and uses for such proposed capital expenditure;
+
+
+
+	(e)	on the Borrowing Date, after giving effect to such borrowing and any other transactions (including a Permitted Property Acquisition) occurring on such date, the Borrower shall be in Pro Forma Compliance with the Financial Covenants for the Test Period most recently ended;
+
+
+
+	(f)	no materially adverse change shall have occurred with respect to any Data Center Property; and
+
+
+
+(g)	all closing payments, costs, fees, expenses (including reasonable, documented, out-of-pocket legal fees and expenses) and other compensation payable to each Agent and the Delayed Draw Lenders shall have been paid (or shall concurrently be paid) to the extent then due. 
+
+
+
+The acceptance of the benefits of each borrowing of Delayed Draw Loans shall constitute a representation and warranty by each Credit Party to the Administrative Agent and the Lenders that all applicable conditions specified in this Section 3.2 have been satisfied as of that time.
+
+
+
+3.3	Conditions to All Borrowings.
+
+(a)   Conditions Precedent.  The obligation of each Lender to make any Loan on any Borrowing Date (including the Initial Term Loans on the Closing Date), is subject to the satisfaction, or waiver in accordance with Section 10.5, of the following conditions on or before such Borrowing Date:
+
+(i)	Administrative Agent shall have received a fully executed and delivered Funding Notice;
+
+(ii)	as of such Borrowing Date, the representations and warranties contained herein and in the other Credit Documents shall be true and correct in all material respects on and as of that Borrowing Date to the same extent as though made on and as of that date, except to the extent such representations and warranties specifically relate to an earlier date, in which case such representations and warranties shall have been true and correct in all material respects on and as of such earlier date; provided that, in each case, such materiality qualifier shall not be applicable to any representations and warranties that already are qualified or modified by materiality in the text thereof; and
+
+(iii)	as of such Borrowing Date, no event shall have occurred and be continuing or would result from the making of the Loans that would constitute an Event of Default or a Default or that could reasonably be expected to result in an Material Adverse Effect.
+
+(b)	Notices.  Any Notice shall be executed by an Authorized Officer in a writing delivered to Administrative Agent.  
+
+SECTION 4.   REPRESENTATIONS AND WARRANTIES
+
+In order to induce the Administrative Agent and the Lenders to enter into this Agreement, each Credit Party represents and warrants to the Administrative Agent and the Lenders, on the Closing Date and on each Borrowing Date, that the following statements are true and correct (it being understood and agreed that the representations and warranties made on the Closing Date are deemed to be made concurrently with, and after giving effect to, the consummation of the Related Transactions):
+
+4.1	Organization; Requisite Power and Authority; Qualification
+
+.  Each of Holdings and its Subsidiaries (a) is duly organized, validly existing and in good standing under the laws of its jurisdiction of organization as identified in Schedule 4.1, (b) has all requisite power and authority to own and operate its properties, to carry on its business as now conducted and as proposed to be conducted, to enter into the Credit Documents to which it is a party and to carry out the transactions contemplated thereby, and (c) is qualified to do business and in good standing in every jurisdiction where its assets are located and wherever necessary to carry out its business and operations, except in jurisdictions where the failure to be so qualified or in good standing has not had, and could not be reasonably expected to have, a Material Adverse Effect.
+
+4.2	Equity Interests and Ownership
+
+.  The Equity Interests of each of Holdings and its Subsidiaries has been duly authorized and validly issued and is fully paid and nonassessable. Except as set forth on Schedule 4.2, as of the date hereof, there is no existing option, warrant, call, right, commitment or other agreement to which Holdings or any of its Subsidiaries is a party requiring, and there is no membership interest or other Equity Interests of Holdings or any of its Subsidiaries outstanding which upon conversion or exchange would require, the issuance by Holdings or any of its Subsidiaries of any additional membership interests or other Equity Interests of Holdings or any of its Subsidiaries or other Securities convertible into, exchangeable for or evidencing the right to subscribe for or purchase, a membership interest or other Equity Interests of Holdings or any of its Subsidiaries.  Schedule 4.2 correctly sets forth the ownership interest of Holdings and each of its Subsidiaries in their respective Subsidiaries as of the Closing Date both before and after giving effect to the Related Transactions.
+
+		(o)	Material Contracts.  (i) Promptly (and in any event within three (3) Business Days of such event), notify the Administrative Agent and each Lender, in writing, upon the occurrence of, upon becoming aware of, or upon receipt of notice from a third party of, (A) any Loan Party’s default pursuant to the terms of any Material Contract to which such Loan Party is a party or (B) the termination of, or the intent or threat to terminate, any such Material Contract, (ii) promptly upon the delivery or receipt thereof (and in any event not later than two (2) Business Days after such delivery or receipt), copies of any notice of any default or event of default under the Austin Permitted Indebtedness Documents, and (C) upon the execution thereof (and in any event not later than three (3) Business Days after the date of execution), copies of any amendment, restatement, supplement or other modification to any Material Contract or any Austin Permitted Indebtedness Document;
+
+(p)	Other Information.  (A) Promptly upon their becoming available, copies of (i) all financial statements, reports, notices and proxy statements sent or made available generally by Holdings to its security holders acting in such capacity or by any Subsidiary of Holdings to its equity holders, bondholders or holders of any other of its securities acting in such capacity or by any Subsidiary of Holdings to its security holders other than Holdings or another Subsidiary of Holdings, (ii) all regular and periodic reports and all registration statements and prospectuses, if any, filed by Holdings or any of its Subsidiaries with any securities exchange or with the Securities and Exchange Commission or any other Governmental Authority, (iii) all press releases and other statements made available generally by Holdings or any of its Subsidiaries to the public concerning material developments in the business of Holdings or any of its Subsidiaries, and (B) such other information and data with respect to Holdings or any of its Subsidiaries as from time to time may be reasonably requested by any Lender; and
+
+(q)	Data Center Outages.  If an electrical or power or other service outage (a “Suffered Outage”) occurs at any Data Center Property, the Borrower shall promptly (and in no event later than one day after the occurrence of such Suffered Outage) notify the Administrative Agent in writing of the following: (i) the occurrence of such Suffered Outage and the applicable Data Center Property, (ii) the cause of such Suffered Outage and what action the Credit Parties have taken, are taking and propose to take with respect thereto, (iii) a list of Tenants affected by such Suffered Outage and (iv) if any Tenant at such Data Center Property has the right to terminate its respective End User Agreement as a result of such Suffered Outage.
+
+
+
+5.14	Landlord Waivers; Collateral Access Agreements
+
+. The Credit Parties shall deliver Landlord Waiver and Personal Property Collateral Access Agreements with respect to any Material Leasehold Property existing as of the Closing Date in accordance with the requirements of Schedule 5.16.  The Credit Parties shall use commercially reasonable efforts to obtain and deliver to Administrative Agent a Landlord Waiver and Personal Property Collateral Access Agreement with respect to any Leasehold Property that becomes a Material Leasehold Property after the Closing Date.
+
+5.15	End User Agreements
+
+.  The Credit Parties shall cause each End User Agreement entered into after the Closing Date to be in an Approved Form.
+
+		5.16	Post-Closing Obligations
+
+.  Each of the Credit Parties shall satisfy the requirements set forth on Schedule 5.16 on or before the date specified for such requirement or such later date to be determined by the Requisite Lenders.
+
+5.17	Lease Agreements
+
+.  Each of the Credit Parties shall in a timely manner (i) observe, perform and fulfill each and every covenant, term and provision of each Lease Agreement, and shall not enter into or otherwise suffer or permit any amendment, waiver, supplement, termination or other modification of any Lease Agreement without the prior consent of the Administrative Agent, and (ii) enforce the material terms, covenants and conditions contained in the Lease Agreements upon the part of the lessee thereunder to be observed or performed in a commercially reasonable manner; provided, however, that, the Borrower shall not terminate or accept a surrender of a Lease Agreement without Collateral Agent’s prior approval, such approval not to be unreasonably withheld or delayed.
+
+5.18	Material Real Estate Assets.
+
+(a)	Title to the Property.	Each Credit Party will warrant and defend the validity and priority of the Lien of the Credit Documents on each Material Real Estate Asset against the claims of all Persons whomsoever, subject only to Permitted Liens.
+
+(b)	Payment of Operating Expenses.  Each Credit Party shall first pay, if applicable, any ground rent due under any ground lease and any other amounts necessary to comply with the ground lease and shall thereafter pay taxes, charges for labor or materials or other charges or judgments that can create Liens on any Material Real Estate Asset or any portion thereof prior to payment of any other actual and reasonable operating expenses with respect to such Material Real Estate Asset.
+
+(c)	Access to Property.  Each Credit Party shall permit agents, representatives and employees of the Administrative Agent to inspect each Material Real Estate Asset or any part thereof at reasonable hours upon reasonable advance notice.  
+
+(d)	Repairs; Maintenance and Compliance; Alterations. Each Credit Party shall cause the Material Real Estate Assets to be maintained in a good and safe condition and repair, subject to ordinary wear and tear, and shall not remove, demolish or alter the improvements or equipment (except for alterations performed in accordance with this Agreement below and normal replacement of equipment with equipment of reasonably equivalent value or functionality). Each Credit Party shall promptly comply in all material respects with all Laws and promptly commence to cure any violation thereof upon learning of such violation. Each Credit Party also hereby covenants and agrees that it shall not commit, permit or suffer to exist any illegal commercial activities or commercial activities relating to controlled substances at any Material Real Estate Asset (including, without limitation, any growing, distributing and/or dispensing of marijuana for commercial purposes, medical or otherwise for so long as the foregoing is a violation of a Law of any applicable Governmental Authority).  The Borrower shall notify the Administrative Agent in writing within three (3) Business Days after any Credit Party first receives notice of any such non-compliance.  The Borrower shall promptly repair, replace or rebuild in a commercially reasonable manner any part of any Material Real Estate Asset that becomes damaged, worn or dilapidated, and shall complete and pay for any Improvements at any time in the process of construction or repair.
+
+ (h)	(i) Indebtedness of the Borrower or its Subsidiaries with respect to Capital Leases and purchase money obligations or similar Indebtedness incurred in order to finance fixed assets and equipment and (ii) refinancings thereof; provided that (A) the Indebtedness (i)permitted under this Section 6.1(h) shall not exceed the aggregate amount of $5,100,000 at any one time, (B) in the case of subclause (i) of this Section 6.1(h), such Indebtedness is issued and any Liens securing such Indebtedness are created within 180 days after the acquisition, construction, lease or improvement of the asset financed and (C) such Indebtedness shall be secured only by the asset acquired in connection with the incurrence of such Indebtedness (or, in the case of a refinancing permitted under subclause (ii) of this Section 6.1(h), the incurrence of the original Indebtedness so refinanced);
+
+(i)	Indebtedness owing under Hedging Agreements entered into in order to manage existing or anticipated interest rate, exchange rate or commodity price risks and not for speculative purposes; and
+
+(j)	Indebtedness of the Austin Mortgage Borrower incurred to finance the acquisition of the Austin Property in an aggregate principal amount not to exceed $17,170,000 at any time (the “Austin Permitted Indebtedness”) and the unsecured guarantee thereof by Holdings (such guaranty, the “Austin Permitted Indebtedness Parent Guaranty”); provided that (i) the holders of such Indebtedness shall have no recourse to any Credit Party or any of their respective Subsidiaries (other than (A) to the Austin Mortgage Borrower and (B) pursuant to the Austin Permitted Indebtedness Parent Guaranty), (ii) the Austin Permitted Indebtedness, the Austin Mortgage Collateral and the Austin Permitted Indebtedness Parent Guaranty shall at all times be subject to the Intercreditor Agreement, and (iii) such Indebtedness is provided on arm’s length terms customary for a real property mortgage financing by a Third Party.
+
+
+
+													
+
+			Appendix B-2
+
+		#4820-2655-9562v18#4820-2655-9562v20
+
+			Appendix B-1
+
+		#4820-2655-9562v18#4820-2655-9562v20
